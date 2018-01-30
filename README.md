@@ -8,7 +8,11 @@ This section contains presentations, lectures notes and general educational mate
 
 ### The Max-Tree data structure
 
-- [The Max-Tree data structure and attribute filters](./image-analysis/maxtree.pdf)
+- [Max-Tree data structure and attribute filters](./image-analysis/maxtree.pdf)
+
+- [Max-Tree Segmentation](404.md)
+
+- [Max-Tree Differential Attribute Profiles](404.md)
 
 ### The Alpha-Tree data structure
 
@@ -24,6 +28,10 @@ This section contains presentations, lectures notes and general educational mate
 
 
 
+
+## Teaching Notes
+
+- [Lab Manual Computer Vision, Rijksuniversiteit Groningen, Netherlands](teaching/cv_prakt.pdf). Owner: Michael H. F. Wilkinson.
 
 ## Contact Me
 
