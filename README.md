@@ -2,37 +2,20 @@
 
 # Educational Material
 
-This section contains presentations, lectures notes and general educational material authored or co-authored by Georgios K. Ouzounis.
+This section contains presentations, lectures notes and other educational material authored or co-authored by Georgios K. Ouzounis.
 
-## Image Analysis
+## image analysis
 
-### The Max-Tree data structure
+[Click here](./image-analysis/contents.md) for more on popular connected component-based image analytics data-structures and algorithms such as the **max-tree**, the **alpha-tree**, the **connectivity-tree** and the **union-find**.
 
-- [Max-Tree data structure and attribute filters](./image-analysis/maxtree.pdf)
+## deep learning
 
-- [Max-Tree Segmentation](404.md)
+[Click here](./deeplearning/contents.md) for more on deep learning with **artificial neural networks**, **convolutional neural networks** and **recurrent neural networks**.
 
-- [Max-Tree Differential Attribute Profiles](404.md)
-
-### The Alpha-Tree data structure
-
-... coming soon.
-
-### The Connectivity-Tree data structure
-
-... coming soon.
-
-### The Union-Find data structure
-
-... coming soon.
-
-
-
-
-## Teaching Notes
+## teaching material
 
 - [Lab Manual Computer Vision, Rijksuniversiteit Groningen, Netherlands](teaching/cv_prakt.pdf). Owner: Michael H. F. Wilkinson.
 
-## Contact Me
+## contact me
 
 Contact [Georgios Ouzounis](mailto:georgios.ouzounis@gmail.com)
