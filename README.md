@@ -8,6 +8,9 @@ This section contains presentations, lectures notes and other educational materi
 
 [Click here](./image-analysis/contents.md) for more on popular connected component-based image analytics data-structures and algorithms such as the **max-tree**, the **alpha-tree**, the **connectivity-tree** and the **union-find**.
 
+## data science
+[Click here](./data-science/contents.md) for more on data science tools and methods, tutorials and exercises.
+
 ## deep learning
 
 [Click here](./deeplearning/contents.md) for more on deep learning with **artificial neural networks**, **convolutional neural networks** and **recurrent neural networks**.
