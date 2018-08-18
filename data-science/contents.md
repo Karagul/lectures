@@ -14,6 +14,8 @@ The following jupyter notebook files were created manually by copying the code s
 | [Pandas](./tutorial-set-01/tutorial_2_pandas.ipynb) | jupyter notebook (.ipynb) | Lauren Glass | Jan. 17, 2018 | [Hackernoon](https://hackernoon.com/fundamental-python-data-science-libraries-a-cheatsheet-part-2-4-fcf5fab9cdf1) |
 | [MatplotLib](./tutorial-set-01/tutorial_3_matplotlib.ipynb) | jupyter notebook (.ipynb) | Lauren Glass | Aug. 07, 2018 | [Hackernoon](https://hackernoon.com/fundamental-python-data-science-libraries-a-cheatsheet-part-3-4-6c2aecc697a4) |
 
+Get them all by cloning this repo: https://github.com/georgiosouzounis/data-science-tutorial-set01.git
+
 ## Contact Me
 
 Contact [Georgios Ouzounis](mailto:georgios.ouzounis@gmail.com)
